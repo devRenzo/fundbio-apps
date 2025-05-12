@@ -1,4 +1,4 @@
-⚙️ Taller de Conectividad en el Borde — Fundamentos de Biodiseño  
+# ⚙️ Taller de Conectividad en el Borde — Fundamentos de Biodiseño  
 Taller de conectividad con ESP32 y MIT App Inventor  
 
 <p align="center">
