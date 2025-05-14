@@ -31,21 +31,21 @@ Fortalecer competencias en electrónica y desarrollo de aplicaciones móviles pa
 
 Este repositorio incluye tres ejemplos guiados y un proyecto asincrónico calificable:
 
-### 🔸 Ejemplo 1 – Control de LED por Bluetooth clásico  
+### 🔸 [Ejemplo 1 – Control de LED por Bluetooth clásico](https://github.com/devRenzo/fundbio-apps/tree/main/Ejemplo1)    
 Encender y apagar un LED desde una app Android usando Bluetooth serial.  
 👉 Tecnologías: `BluetoothClient`, `ListPicker`, control digital básico.
 
-### 🔸 Ejemplo 2 – Control de LEDs por Wi-Fi usando HTTP GET  
+### 🔸 [Ejemplo 2 – Control de LEDs por Wi-Fi usando HTTP GET](https://github.com/devRenzo/fundbio-apps/tree/main/Ejemplo2)  
 Encender y apagar LEDs vía red local mediante un servidor web embebido.  
 👉 Tecnologías: `Web` (GET), rutas HTTP, red LAN.
 
-### 🔸 Ejemplo 3 – Control de servomotor vía Wi-Fi con JSON  
+### 🔸 [Ejemplo 3 – Control de servomotor vía Wi-Fi con JSON](https://github.com/devRenzo/fundbio-apps/tree/main/Ejemplo3)  
 Enviar valores desde un slider para posicionar un servo a través de HTTP POST y JSON.  
 👉 Tecnologías: `Web.PostText`, `JSONTextEncode`, `Clock`, `Slider`.
 
 ---
 
-## 🎯 Proyecto asincrónico calificable – Monitor de flexión en tiempo real
+## 🎯 [Proyecto asincrónico calificable – Monitor de flexión en tiempo real](https://github.com/devRenzo/fundbio-apps/tree/main/Ejercicio_asincrono)
 
 Diseñar e implementar un sistema completo de medición de ángulo usando un **flex sensor** conectado al ESP32, con visualización continua desde una app hecha en MIT App Inventor.
 
