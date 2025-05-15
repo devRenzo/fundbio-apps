@@ -59,7 +59,7 @@ Diseñar e implementar un sistema completo de medición de ángulo usando un **f
 - Video de demostración (<1 min)  
 - Capturas de pantalla de bloques en App Inventor  
 - Código Arduino comentado (`.ino`)  
-- Informe breve (PDF o Markdown) con detalles de calibración y diseño  
+- Informe breve (Markdown) con detalles de calibración y diseño  
 
 ### 📊 Rúbrica de evaluación (20 ptos)
 | Criterio | Puntos |
