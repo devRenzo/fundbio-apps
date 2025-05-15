@@ -114,8 +114,8 @@ Cambia los límites *después* de medir tus valores reales en monitor serie.
 
 * Vídeo corto (< 1 min) mostrando sensor y app funcionando.  
 * Capturas de pantalla de bloques App Inventor.  
-* Código `.ino` comentado (GitHub o ZIP).  
-* Informe en PDF/Markdown explicando calibración y rango obtenido.
+* Código `.ino` comentado (GitHub).  
+* Informe en Markdown explicando calibración y rango obtenido.
 
 ---
 
